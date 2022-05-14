@@ -10,7 +10,12 @@ function App() {
         <h1>
           <code>Github</code> and React JS.
         </h1>
-        <p className='App-small'>&mdash; by Shani Shashidharan</p>
+        <p className='App-small'>&mdash; by <a
+          className="App-link"
+          href="https://shanishashidharan.co.in/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >Shani Shashidharan</a></p>
         <p><a
           className="App-link"
           href="https://reactjs.org"

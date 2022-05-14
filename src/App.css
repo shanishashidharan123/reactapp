@@ -26,6 +26,16 @@
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
+}
+
+.App-link:hover, .App-link:focus{
+  text-decoration: underline;
+}
+
+.App-link:active{
+  color: #52bcda;
+  text-decoration: none;
 }
 
 .App-small {
