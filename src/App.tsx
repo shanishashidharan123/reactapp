@@ -49,8 +49,8 @@ function SSHdr() {
             <li><a href="../contact_ss.html">CONTACT</a></li>
             <li><a href="../oldmug/CSNI/index.html" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a></li>
             <li><a href="../oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer nofollow">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
-            <li><a href="aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
-            <li><a href="gamma_knife" target="_blank" rel="noreferrer nofollow">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
+            <li><a href="../aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
+            <li><a href="../gamma_knife" target="_blank" rel="noreferrer nofollow">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
           </ul>
         </div>
       </div>
@@ -69,7 +69,7 @@ function Ftrss() {
             <p className="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
           </address>
           <p className="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="../documents/RESUME_shani.pdf" title="Download CV">Curriculum Vitae</a> | <a href="../documents/Profile.pdf" title="Download Profile for Marraige">Personal Profile</a></p>
-          <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="../index.html">Home</a> | <a href="../privacy.html">Privacy Policy</a> | <a href="../terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
+          <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="../index.html">Home</a> | <a href="../privacy.html">Privacy Policy</a> | <a href="../terms.html">Terms and conditions</a> | <a href="../disclaimer.html">Disclaimer</a></p>
       </div>
     </footer>
     </>
