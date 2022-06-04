@@ -34,7 +34,7 @@ function SSHdr() {
   return (
     <>
       <div className="ss_container">
-        <p><span className="algn_LEFT atop"><a href="about_ss.html">SHANI SHASHIDHARAN</a></span>
+        <p><span className="algn_LEFT atop"><a href="../about_ss.html">SHANI SHASHIDHARAN</a></span>
           <button className="atop2 algn_RIGHT" id="ssTG1" onClick={togglebtn}><span>&#8212;<br />
             &#8212;<br />
             &#8212;</span></button>
