@@ -41,12 +41,12 @@ function SSHdr() {
         </p>
         <div id="ss_menu1">
           <ul>
-            <li><a href="about_ss.html">ABOUT</a></li>
+            <li><a href="http://shanishashidharan.co.in/about_ss.html">ABOUT</a></li>
             <li><a href="https://shanishashidharan.co.in/reactapp/">PRODUCTS</a></li>
-            <li><a href="works_ss.html">WORKS</a></li>
-            <li><a href="services_ss.html">SERVICES</a></li>
-            <li><a href="team_ss.html">TEAM</a></li>
-            <li><a href="contact_ss.html">CONTACT</a></li>
+            <li><a href="http://shanishashidharan.co.in/works_ss.html">WORKS</a></li>
+            <li><a href="http://shanishashidharan.co.in/services_ss.html">SERVICES</a></li>
+            <li><a href="http://shanishashidharan.co.in/team_ss.html">TEAM</a></li>
+            <li><a href="http://shanishashidharan.co.in/contact_ss.html">CONTACT</a></li>
             <li><a href="http://shanishashidharan.co.in/oldmug/CSNI/index.html" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a></li>
             <li><a href="http://shanishashidharan.co.in/oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer nofollow">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
             <li><a href="aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
