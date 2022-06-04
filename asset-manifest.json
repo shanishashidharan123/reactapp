@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/reactapp/static/css/main.d66b3d2b.css",
-    "main.js": "/reactapp/static/js/main.6146c268.js",
+    "main.js": "/reactapp/static/js/main.ca9bb5ff.js",
     "static/media/ICON.jpg": "/reactapp/static/media/ICON.a3abd24d6d4b90ccf5f9.jpg",
     "static/media/LibreBodoni-Regular.otf": "/reactapp/static/media/LibreBodoni-Regular.b321b470db4a0fe768d1.otf",
     "static/media/creative-cloud-logo.png": "/reactapp/static/media/creative-cloud-logo.00bf0ca79f6d9cca81f6.png",
     "static/media/Mark Simonson - Proxima Nova Alt Bold.otf": "/reactapp/static/media/Mark Simonson - Proxima Nova Alt Bold.da0d3d7c61c9e115d42f.otf",
     "index.html": "/reactapp/index.html",
     "main.d66b3d2b.css.map": "/reactapp/static/css/main.d66b3d2b.css.map",
-    "main.6146c268.js.map": "/reactapp/static/js/main.6146c268.js.map"
+    "main.ca9bb5ff.js.map": "/reactapp/static/js/main.ca9bb5ff.js.map"
   },
   "entrypoints": [
     "static/css/main.d66b3d2b.css",
-    "static/js/main.6146c268.js"
+    "static/js/main.ca9bb5ff.js"
   ]
 }
