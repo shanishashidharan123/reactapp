@@ -1,0 +1,44 @@
+{
+  "short_name": "Shani",
+  "name": "Shani Shashidharan",
+  "description": "Website @ lowcost",
+  "icons": [
+    {
+      "src": "logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo_196.png",
+      "type": "image/png",
+      "sizes": "196x196",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#a5cafd",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#a5cafd",
+  "shortcuts": [
+    {
+      "name": "Shani Shashidharan",
+      "short_name": "Shani",
+      "description": "Website Builders",
+      "url": ".",
+      "icons": [
+        {
+          "src": "logo_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
