@@ -42,6 +42,7 @@ function SSHdr() {
         <div id="ss_menu1">
           <ul>
             <li><a href="about_ss.html">ABOUT</a></li>
+            <li><a href="https://shanishashidharan.co.in/reactapp/">PRODUCTS</a></li>
             <li><a href="works_ss.html">WORKS</a></li>
             <li><a href="services_ss.html">SERVICES</a></li>
             <li><a href="team_ss.html">TEAM</a></li>
