@@ -68,8 +68,8 @@ function Ftrss() {
           <address>
             <p className="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
           </address>
-          <p className="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="documents/RESUME_shani.pdf" title="Download CV">Curriculum Vitae</a> | <a href="documents/Profile.pdf" title="Download Profile for Marraige">Personal Profile</a></p>
-          <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="index.html">Home</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
+          <p className="Snew_footer-email"> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="../documents/RESUME_shani.pdf" title="Download CV">Curriculum Vitae</a> | <a href="http://shanishashidharan.co.in/documents/Profile.pdf" title="Download Profile for Marraige">Personal Profile</a></p>
+          <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="http://shanishashidharan.co.in/index.html">Home</a> | <a href="http://shanishashidharan.co.in/privacy.html">Privacy Policy</a> | <a href="http://shanishashidharan.co.in/terms.html">Terms and conditions</a> | <a href="disclaimer.html">Disclaimer</a></p>
       </div>
     </footer>
     </>

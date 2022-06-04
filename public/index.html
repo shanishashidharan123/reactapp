@@ -10,7 +10,6 @@
   <meta name="author" content="Shani Shashidharan">
   <!-- <meta name="monetization" content="$ilp.uphold.com/x8FEYkkmQEnX"> -->
   <meta name="theme-color" content="#a5cafd">
-  <!-- <link rel="stylesheet preload" href="css/main.css?v=4.8"  as="style"> -->
   <link href="%PUBLIC_URL%/ss_icon.ico" rel="icon" title="Icon of shani shashidharan" type="image/x-icon" id="ss123">
   <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo_192.png">
   <link rel="manifest" href="%PUBLIC_URL%/shanishashidharan.json">
@@ -26,6 +25,9 @@
   <div id="SSProducts"></div>
   <div id="SSFooter"></div>
   <script>
+    // if ('serviceWorker' in navigator) {
+    //   navigator.serviceWorker.register('serviceworker.js'); 
+    // }
     function bganim() {
       document.getElementById("Bganim").className = "fade";
       setInterval(hide, 700);
