@@ -61,7 +61,7 @@ import React from "react";
         <>
         <section className="Snew_mn2">
           <div className="ss_container text_center">
-            <h2>Buy and do Medical business all over India</h2>
+            <h1>Buy and do Medical business all over India</h1>
             <div className="rows midrows">
               <div className="cols-30">
                 <p className="text_center"><img src={require('./images/ICON.jpg')} width="600" height="600" alt="Any Health Guru - HTML static Template by Adobe Dreamweaver" style={{width: "350px", maxWidth: "100%"}} /></p>
