@@ -67,7 +67,7 @@ import React from "react";
                 <p className="text_center"><img src={require('./images/ICON.jpg')} width="600" height="600" alt="Any Health Guru - HTML static Template by Adobe Dreamweaver" style={{width: "350px", maxWidth: "100%"}} /></p>
               </div>
               <div className="cols-70">
-                <p>HTML Static Template, Editable template, HTML 5, CSS3, SCSS, jQuery, Bootstrap 4.0, Editable Logo PSD and other images PSD. Responsive modals, Ready-made editable stylesheets. Healthcare demographics and demo theory from Indian Health Guru his very own beginner website. This Medical website is for all over India, publish worldwide, and brings patients from worldwide for surgery.</p>
+                <p>HTML Static Template, Editable template, HTML 5, CSS3, SCSS, jQuery, Bootstrap 4.0, Editable Logo PSD and other images PSD, Editable Canvas files, Responsive modals, Ready-made editable stylesheets. Healthcare demographics and demo theory from Indian Health Guru his very own beginner website. This Medical website is for all over India, publish worldwide, and brings patients from worldwide for surgery.</p>
                 <a href="https://rzp.io/l/healthGuru" id="rzp-btn">Buy Now</a>
               </div>
             </div>
