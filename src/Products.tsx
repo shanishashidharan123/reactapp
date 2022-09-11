@@ -69,6 +69,10 @@ import React from "react";
               <div className="cols-70">
                 <p>HTML Static Template, Editable template, HTML 5, CSS3, SCSS, jQuery, Bootstrap 4.0, Editable Logo PSD and other images PSD, Editable Canvas files, Responsive modals, Ready-made editable stylesheets. Healthcare demographics and demo theory from Indian Health Guru his very own beginner website. This Medical website is for all over India, publish worldwide, and brings patients from worldwide for surgery.</p>
                 <a href="https://rzp.io/l/healthGuru" id="rzp-btn">Buy Now</a>
+                <h3 style={{margin: "24px 0px 12px"}}>Add a Product Review</h3>
+<div className="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="6315fc26c290dfa09b0c16a1" data-style-height="52px" data-style-width="100%">
+  <a href="https://www.trustpilot.com/review/shanishashidharan.co.in" target="_blank" rel="noopener">Trustpilot</a>
+</div>
               </div>
             </div>
             <p>Make India and abroad proud. Jai Hind!</p>
