@@ -21,17 +21,17 @@ const RUNTIME = 'runtime';
 const PRECACHE_URLS = [
   'index.html',
   './', // Alias for index.html
-  'stylesheet/main.css'
+  'css/main.css'
 ];
 
 // The install handler takes care of precaching the resources we always need.
-self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(PRECACHE)
-      .then(cache => cache.addAll(PRECACHE_URLS))
-      .then(self.skipWaiting())
-  );
-});
+// self.addEventListener('install', event => {
+//   event.waitUntil(
+//     caches.open(PRECACHE)
+//       .then(cache => cache.addAll(PRECACHE_URLS))
+//       .then(self.skipWaiting())
+//   );
+// });
 
 // The activate handler takes care of cleaning up old caches.
 self.addEventListener('activate', event => {
