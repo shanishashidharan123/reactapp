@@ -71,7 +71,7 @@ import React from "react";
                 <a href="https://rzp.io/l/healthGuru" id="rzp-btn">Buy Now</a>
                 <h3 style={{margin: "24px 0px 12px"}}>Add a Product Review</h3>
 <div className="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="6315fc26c290dfa09b0c16a1" data-style-height="52px" data-style-width="100%">
-  <a href="https://www.trustpilot.com/review/shanishashidharan.co.in" target="_blank" rel="noopener">Trustpilot</a>
+  <a href="https://www.trustpilot.com/review/shanishashidharan.co.in" target={"_blank"} rel="noopener">Trustpilot</a>
 </div>
               </div>
             </div>
