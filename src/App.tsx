@@ -63,7 +63,7 @@ function Ftrss() {
     <>
       <footer className="Snew_footer">
         <div className="ss_container">
-          <p className="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN 21 May, 2022
+          <p className="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN 13 September, 2022
           </p>
           <address>
             <p className="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
