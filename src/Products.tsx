@@ -78,6 +78,19 @@ import React from "react";
               </div>
             </div>
             <p>Make India and abroad proud. Jai Hind!</p>
+            <br/>
+            <br/>
+            <h2>Graphic Designs - Order online</h2>
+          <div className="rows midrows">
+            <div className="cols-30">
+              <p className="text_center"><a href="images/ss_GraphicDesigns.jpg" title="Click to Enlarge"><img src={require('./images/ss_GraphicDesigns.jpg')} width="1024" height="1325" alt="Graphic Design Price list" style={{width: "350px", maxWidth: "100%"}} /></a></p>
+            </div>
+            <div className="cols-70">
+              <p>Graphic Designs package at Rs. 25000 per month, this package includes any Graphic Designs listed on the image except Video Editing and Compositing. You can also order products individually.</p>
+             <a href="https://rzp.io/l/ssgraphics" id="rzp-btn">Order Now</a>
+                <p style={{fontSize: "small"}}>For more information, Graphic solutions or contract, <a href="mailto:shanishashidharan@gmail.com" title="Graphic Queries via email">email us</a>.</p>
+                </div>
+                </div>
           </div>
         </section>
         <section className="Snew_mn2" id="quotes">
