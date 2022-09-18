@@ -10,7 +10,7 @@
         @include transition(color 0s linear);     
     }
     &:active {
-        color: #BC100F;
+        color: #BC100F; 
         @include transition(color 0s linear);
     }
 } 
@@ -423,7 +423,7 @@ body {
     .error{
         color: #da1c07;
     }
-    #rzp-btn {
+    [id*="rzp-btn"] { 
         background-color: #7b716b;
         box-sizing: border-box;
         display: inline-block;
@@ -1210,17 +1210,18 @@ section.Snew2 {
 	margin-right: auto;
 	margin-left: auto;
 	max-width: 100%;
+    @include flex;
+    flex-wrap: wrap;
+    @include justify-content(space-around); 
+    column-gap: 15px;
 }
-
 .team-member {
 	text-align: center;
-	margin-bottom: 2.5em
 }
 @media (min-width: 577px) and (max-width: 960px) {
 .team-member {
 	width: 30% ;
 	float: left;
-	margin-right: 3.3333%
 }
 }
 @media (min-width: 961px) {
@@ -1228,12 +1229,11 @@ section.Snew2 {
 	margin-bottom: 0;
 	width: 30%;
 	float: left;
-	margin-right: 3.33333%
 }
 }
 .team-member:last-child {
-	margin-bottom: 0;
-	margin-right: 0px;
+//	margin-bottom: 0;
+//	margin-right: 0px;
 }
 img.team-member-img {
 	display: inline-block;
@@ -1293,7 +1293,10 @@ img.team-member-img {
 	margin-bottom: 1.5em
 }
 .Snew_footer a {
-	text-decoration: underline
+	text-decoration: underline;
+    &[class*="ss-social-"] {
+        text-decoration: none;
+    }
 }
 .Snew_footer-copywrite {
 	font-family: "proxima-nova-alt", sans-serif;
@@ -1326,3 +1329,49 @@ img.team-member-img {
 	src: url(../fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Alt%20Bold.otf);
 	font-display: fallback;
 }
+@font-face {
+  font-family: 'ss_social';
+  src:  url(../fonts/ss_social.woff);
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+[class*="ss-social-"] {
+    font-family: 'ss_social' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    white-space: nowrap;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    vertical-align: middle;
+    text-indent: 24px;
+    position: relative;
+    &:before {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        display: block;
+        text-indent: 0px;
+        @include transform(translate(-50%, -51%));
+    }
+}
+
+.ss-social-fb:before {
+    content: "\ea91";
+}
+.ss-social-tw:before {
+    content: "\ea96";
+}
+.ss-social-ln:before {
+    content: "\eac9";
+}
+
+
