@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactapp/static/css/main.7f9d2a3f.css",
-    "main.js": "/reactapp/static/js/main.f35029c1.js",
+    "main.js": "/reactapp/static/js/main.178c79e9.js",
     "static/media/ss_GraphicDesigns.jpg": "/reactapp/static/media/ss_GraphicDesigns.61ec70c0da37ca4bd1d8.jpg",
     "static/media/ICON.jpg": "/reactapp/static/media/ICON.a3abd24d6d4b90ccf5f9.jpg",
     "static/media/LibreBodoni-Regular.otf": "/reactapp/static/media/LibreBodoni-Regular.b321b470db4a0fe768d1.otf",
@@ -10,10 +10,10 @@
     "static/media/ss_social.woff": "/reactapp/static/media/ss_social.26ced797b545de6a8a48.woff",
     "index.html": "/reactapp/index.html",
     "main.7f9d2a3f.css.map": "/reactapp/static/css/main.7f9d2a3f.css.map",
-    "main.f35029c1.js.map": "/reactapp/static/js/main.f35029c1.js.map"
+    "main.178c79e9.js.map": "/reactapp/static/js/main.178c79e9.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9d2a3f.css",
-    "static/js/main.f35029c1.js"
+    "static/js/main.178c79e9.js"
   ]
 }
