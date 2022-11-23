@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.580ebd51.css",
+    "main.css": "/reactapp/static/css/main.a3e0d823.css",
     "main.js": "/reactapp/static/js/main.178c79e9.js",
     "static/media/ss_GraphicDesigns.jpg": "/reactapp/static/media/ss_GraphicDesigns.61ec70c0da37ca4bd1d8.jpg",
     "static/media/ICON.jpg": "/reactapp/static/media/ICON.a3abd24d6d4b90ccf5f9.jpg",
@@ -9,11 +9,11 @@
     "static/media/Mark Simonson - Proxima Nova Alt Bold.otf": "/reactapp/static/media/Mark Simonson - Proxima Nova Alt Bold.da0d3d7c61c9e115d42f.otf",
     "static/media/ss_social.woff": "/reactapp/static/media/ss_social.26ced797b545de6a8a48.woff",
     "index.html": "/reactapp/index.html",
-    "main.580ebd51.css.map": "/reactapp/static/css/main.580ebd51.css.map",
+    "main.a3e0d823.css.map": "/reactapp/static/css/main.a3e0d823.css.map",
     "main.178c79e9.js.map": "/reactapp/static/js/main.178c79e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.580ebd51.css",
+    "static/css/main.a3e0d823.css",
     "static/js/main.178c79e9.js"
   ]
 }
