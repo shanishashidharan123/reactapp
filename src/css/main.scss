@@ -502,7 +502,7 @@ body {
             @include justify-content(center);
         }
     }
-    #SNew_HDr{
+    #SNew_HDr{ 
         position: relative;
         z-index: 1;
         overflow: hidden;
