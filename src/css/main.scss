@@ -619,12 +619,11 @@ ul, ol{
     }
 }
 a {
-	text-decoration: none;
-	color: #4F4F4F;
-}
-a {
     color: #4F4F4F;
     text-decoration: none;
+    &:hover {
+        color: #195899;
+    }
 }
 .ss_container, .container {
     max-width: 72em; 
@@ -902,9 +901,6 @@ section.Snew_mn2 {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-a:hover {
-    color: #989898;
-}
 .recent-item-madhat {
     background-color: #E85743;
     border-color: #E5533F;
@@ -1371,7 +1367,61 @@ img.team-member-img {
     content: "\ea96";
 }
 .ss-social-ln:before {
-    content: "\eac9"; 
-} 
+    content: "\eac9";
+}
 
+.Graphic_list {
+    font-size: 12px;
+    color: #333;
+    background-color: #e3e6e9;
+    width: 166px;
+    border: 1px solid #abdd22;
+    margin: 8px;
+    border-radius: 3px;
+    box-shadow: 10px 10px 42px rgba(21, 26, 4, 0.2) inset;
+    a{
+        display: block;
+        padding: 8px;
+        img{
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #abdd22;
+            border-radius: 6px;
+        }
+    }
+    p{
+        margin: 0px;
+        padding: 0px;
+        + p{
+            padding: 0px 12px 12px;
+        }
+    }  
+    @media (max-width: 424px) and (min-width: 320px){
+        width: 120px;
+    }
+}
 
+.compare_rel_res{
+    padding: 5px; 
+    h2{
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+    h3{
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+    h2, h3, p{
+        margin-bottom: 12px;
+    }
+    img{
+        background-color: #f7f9f8;
+        padding: 13px;
+        border: 1px solid #ddd;
+    }
+    *:last-child{
+        margin-bottom: 0px;
+    }
+}
