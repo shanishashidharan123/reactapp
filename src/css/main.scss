@@ -502,7 +502,7 @@ body {
             @include justify-content(center);
         }
     }
-    #SNew_HDr, footer, main{
+    #SNew_HDr, footer, main, #SSMain{
         position: relative;
         z-index: 0;
         overflow: hidden;
