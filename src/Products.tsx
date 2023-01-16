@@ -68,7 +68,7 @@ import React from "react";
               </div>
               <div className="cols-70">
                 <p>HTML Static Template, Editable template, HTML 5, CSS3, SCSS, jQuery, Bootstrap 4.0, Editable Logo PSD and other images PSD, Editable Canvas files, Responsive modals, Ready-made editable stylesheets. Healthcare demographics and demo theory from Indian Health Guru his very own beginner website. This Medical website is for all over India, publish worldwide, and brings patients from worldwide for surgery.</p>
-                <a href="https://rzp.io/l/healthGuru" id="rzp-btn">Buy Now</a>
+                <a href="https://rzp.io/l/healthGuru" id="rzp-btn" rel="noreferrer nofollow">Buy Now</a>
                 <h3 style={{margin: "24px 0px 12px"}}>Add a Product Review</h3>
                  {/* TrustBox widget - Review Collector  */}
 <div className="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="6315fc26c290dfa09b0c16a1" data-style-height="52px" data-style-width="100%">
@@ -87,7 +87,7 @@ import React from "react";
             </div>
             <div className="cols-70">
               <p>Graphic Designs package at Rs. 25000 per month, this package includes any Graphic Designs listed on the image except Video Editing and Compositing. You can also order products individually.</p>
-             <a href="https://rzp.io/l/ssgraphics" id="rzp-btn">Order Now</a>
+             <a href="https://rzp.io/l/ssgraphics" id="rzp-btn" rel="noreferrer nofollow">Order Now</a>
                 <p style={{fontSize: "small"}}>For more information, Graphic solutions or contract, <a href="mailto:shanishashidharan@gmail.com" title="Graphic Queries via email">email us</a>.</p>
                 </div>
                 </div>
