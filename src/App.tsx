@@ -43,6 +43,7 @@ function SSHdr() {
           <ul>
             <li><a href="../about_ss.html">ABOUT</a></li>
             <li><a href="../reactapp/">PRODUCTS</a></li>
+            <li><a href="../my_shop.html">SHOP</a></li>
             <li><a href="../works_ss.html">WORKS</a></li>
             <li><a href="../services_ss.html">SERVICES</a></li>
             <li><a href="../team_ss.html">TEAM</a></li>
@@ -64,7 +65,7 @@ function Ftrss() {
     <>
       <footer className="Snew_footer">
         <div className="ss_container">
-          <p className="Snew_footer-copywrite"> Author - SHANI SHASHIDHARAN 13 September, 2022
+          <p className="Snew_footer-copywrite">Author - SHANI SHASHIDHARAN 13 September, 2022
           </p>
           <address>
             <p className="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
