@@ -72,6 +72,7 @@ function Ftrss() {
           </address>
           <p className="Snew_footer-email"  style={{lineHeight: "24px"}}> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="../documents/RESUME_shani.pdf" title="Download CV">Curriculum Vitae</a> | <a href="../documents/Profile.pdf" title="Download Profile for Marraige">Personal Profile</a> | <a href="https://www.facebook.com/shanishashidharan1210" title="Shani Shashidharan on Facebook" target="_blank" className="ss-social-fb">Shani Shashidharan on Facebook</a> | <a href="https://www.linkedin.com/in/shanishashidharan/" title="Shani Shashidharan on LinkedIn" target="_blank" className="ss-social-ln">Shani Shashidharan on LinkedIn</a> | <a href="https://twitter.com/shani_tweet" title="Shani Shashidharan on Twitter" target="_blank" className="ss-social-tw">Shani Shashidharan on Twitter</a></p>
           <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="../index.html">Home</a> | <a href="../privacy.html" rel="noreferrer nofollow">Privacy Policy</a> | <a href="../terms.html" rel="noreferrer nofollow">Terms and conditions</a> | <a href="../disclaimer.html" rel="noreferrer nofollow">Disclaimer</a></p>
+          
       </div>
     </footer>
     </>
