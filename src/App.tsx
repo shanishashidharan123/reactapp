@@ -48,10 +48,10 @@ function SSHdr() {
             <li><a href="../services_ss.html">SERVICES</a></li>
             <li><a href="../team_ss.html">TEAM</a></li>
             <li><a href="../contact_ss.html">CONTACT</a></li>
-            <li><a href="../oldmug/CSNI/index.html" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a></li>
-            <li><a href="../oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer nofollow">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
-            <li><a href="../aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
-            <li><a href="../gamma_knife" target="_blank" rel="noreferrer nofollow">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
+            <li><a href="../oldmug/CSNI/index.html" target="_blank">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a></li>
+            <li><a href="../oldmug/Maldives2india4surgery/" target="_blank">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
+            <li><a href="../aesthetic_dentistry" target="_blank">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
+            <li><a href="../gamma_knife" target="_blank">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
             <li><a href="../relative_responsive_design.html">Relative Responsive Design - Cancer Surgery India</a></li>
           </ul>
         </div>
@@ -70,8 +70,8 @@ function Ftrss() {
           <address>
             <p className="Snew_footer-address">Aswathy, Umayanalloor P. O, Perayam, Kollam, Kerala, India, PIN: 691589</p>
           </address>
-          <p className="Snew_footer-email"  style={{lineHeight: "24px"}}> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="../documents/RESUME_shani.pdf" title="Download CV">Curriculum Vitae</a> | <a href="../documents/Profile.pdf" title="Download Profile for Marraige">Personal Profile</a> | <a href="https://www.facebook.com/shanishashidharan1210" title="Shani Shashidharan on Facebook" target="_blank" className="ss-social-fb" rel="noreferrer nofollow">Shani Shashidharan on Facebook</a> | <a href="https://www.linkedin.com/in/shanishashidharan/" title="Shani Shashidharan on LinkedIn" target="_blank" className="ss-social-ln" rel="noreferrer nofollow">Shani Shashidharan on LinkedIn</a> | <a href="https://twitter.com/shani_tweet" title="Shani Shashidharan on Twitter" target="_blank" className="ss-social-tw" rel="noreferrer nofollow">Shani Shashidharan on Twitter</a></p>
-          <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="../index.html">Home</a> | <a href="../privacy.html">Privacy Policy</a> | <a href="../terms.html">Terms and conditions</a> | <a href="../disclaimer.html">Disclaimer</a></p>
+          <p className="Snew_footer-email"  style={{lineHeight: "24px"}}> <a href="mailto:shanishashidharan@hotmail.com">shanishashidharan@hotmail.com</a> | <a href="../documents/RESUME_shani.pdf" title="Download CV">Curriculum Vitae</a> | <a href="../documents/Profile.pdf" title="Download Profile for Marraige">Personal Profile</a> | <a href="https://www.facebook.com/shanishashidharan1210" title="Shani Shashidharan on Facebook" target="_blank" className="ss-social-fb">Shani Shashidharan on Facebook</a> | <a href="https://www.linkedin.com/in/shanishashidharan/" title="Shani Shashidharan on LinkedIn" target="_blank" className="ss-social-ln">Shani Shashidharan on LinkedIn</a> | <a href="https://twitter.com/shani_tweet" title="Shani Shashidharan on Twitter" target="_blank" className="ss-social-tw">Shani Shashidharan on Twitter</a></p>
+          <p className="Snew_footer-address" style={{fontSize: "11px"}}><a href="../index.html">Home</a> | <a href="../privacy.html" rel="noreferrer nofollow">Privacy Policy</a> | <a href="../terms.html" rel="noreferrer nofollow">Terms and conditions</a> | <a href="../disclaimer.html" rel="noreferrer nofollow">Disclaimer</a></p>
       </div>
     </footer>
     </>
