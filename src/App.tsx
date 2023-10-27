@@ -48,10 +48,10 @@ function SSHdr() {
             <li><a href="../services_ss.html">SERVICES</a></li>
             <li><a href="../team_ss.html">TEAM</a></li>
             <li><a href="../contact_ss.html">CONTACT</a></li>
-            <li><a href="../oldmug/CSNI/index.html" target="_blank">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a></li>
-            <li><a href="../oldmug/Maldives2india4surgery/" target="_blank">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
-            <li><a href="../aesthetic_dentistry" target="_blank">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
-            <li><a href="../gamma_knife" target="_blank">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
+            <li><a href="../oldmug/CSNI/index.html" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype website - Cosmeticsurgerynagpurindia </a></li>
+            <li><a href="../oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer nofollow">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
+            <li><a href="../aesthetic_dentistry" target="_blank" rel="noreferrer nofollow">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
+            <li><a href="../gamma_knife" target="_blank" rel="noreferrer nofollow">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
             <li><a href="../relative_responsive_design.html">Relative Responsive Design - Cancer Surgery India</a></li>
           </ul>
         </div>
