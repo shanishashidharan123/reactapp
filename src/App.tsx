@@ -52,7 +52,7 @@ function SSHdr() {
             <li><a href="../oldmug/Maldives2india4surgery/" target="_blank" rel="noreferrer">XHTML 1.0 Transitional doctype webpage - Maldives2india4surgery</a></li>
             <li><a href="../aesthetic_dentistry" target="_blank" rel="noreferrer">HTML 4.01 Transitional doctype webpage - Aesthetic Dentistry India</a></li>
             <li><a href="../gamma_knife" target="_blank" rel="noreferrer">HTML 5.0 doctype webpage - Gamma Knife Surgery India</a></li>
-            <li><a href="../relative_responsive_design.html">Relative Responsive Design - Cancer Surgery India</a></li>
+            <li><a href="../relative-responsive-design.html">Relative Responsive Design - Cancer Surgery India</a></li>
           </ul>
         </div>
       </div>
